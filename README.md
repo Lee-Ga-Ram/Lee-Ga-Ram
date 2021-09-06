@@ -26,6 +26,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)
+<img src="https://img.shields.io/badge/-AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
 ### My blog
 <a href="https://ga-ram.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=for-the-square&logo=dev.to&logoColor=white"></a>
